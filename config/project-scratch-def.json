@@ -1,7 +1,7 @@
 {
   "orgName": "sudipta.deb company",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "features": ["EnableSetPasswordInApi","CallIAFromApex"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
